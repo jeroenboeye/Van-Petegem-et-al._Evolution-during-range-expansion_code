@@ -1,5 +1,4 @@
 # Van-Petegem-et-al._Evolution-during-range-expansion_code
-Added simulation files
 
 This repository contains the files for the simulation in the research paper "Spatial selection and local adaptation jointly shape life-history evolution during range expansion" published in the American Naturalist by Van Petegem et al. (2016).
 
